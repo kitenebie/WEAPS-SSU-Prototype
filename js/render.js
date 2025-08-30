@@ -10,9 +10,10 @@ function renderCards(data) {
   data.forEach((emp) => {
     const card = document.createElement("div");
     card.className =
-      "cursor-pointer bg-white dark:bg-gray-800 rounded-2xl shadow-lg p-6 transition transform hover:-translate-y-1 hover:shadow-2xl";
+      "cursor-pointer bg-white p-6 dark:bg-gray-800 rounded-2xl shadow-lg relative transition transform hover:-translate-y-1 hover:shadow-2xl";
     card.innerHTML = `
-      <div class="flex items-center justify-between mb-4">
+    <span class="bg-[#7F1D1D] h-4 w-full rounded-t-2xl absolute left-0 top-0"></span>
+    <div class="flex items-center p-4 relative justify-between mb-4">
         <div class="flex items-center gap-2">
           <img src="${emp.logo}" alt="Company Logo" class="w-7 h-7 rounded-md object-cover">
           <span class="text-sm font-medium text-gray-500 dark:text-gray-400">${emp.company}</span>

@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html lang="en" class="h-full">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Update Profile</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+  </head>
+  <body class="bg-gray-50 min-h-screen flex items-center px-12 justify-center">
+    <div
+      class="max-w-full w-full bg-white p-8 rounded-2xl shadow-lg overflow-y-auto max-h-screen"
+    >
+      <!-- CV Page -->
+      <div
+        class="relative flex flex-row justify-start items-center max-w-full mx-auto bg-[#FFD700] dark:bg-gray-800 rounded-2xl shadow-xl p-4"
+      >
+        <button
+          onclick="location.href='main.html'"
+          class="p-4 rounded-full bg-[#991B1B] text-white hover:bg-[#7F1D1D] transition flex items-center justify-center"
+        >
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            class="h-6 w-6"
+            fill="none"
+            viewBox="0 0 24 24"
+            stroke="currentColor"
+          >
+            <path
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              stroke-width="2"
+              d="M15 19l-7-7 7-7"
+            />
+          </svg>
+        </button>
+        <h2 class="text-3xl text-center font-bold mt-1 mx-4 text-[#7F1D1D]">Update Profile</h2>
+      </div>
+      <br />
+
+      <form id="profileForm" class="space-y-8">
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+          <div class="">
+            <!-- Profile Upload -->
+            <div>
+              <label class="block font-semibold mb-2">Profile Picture</label>
+              <div
+                id="profileDrop"
+                class="border-2 border-dashed border-gray-300 rounded-lg p-6 text-center cursor-pointer hover:border-red-400 transition"
+              >
+                <input
+                  type="file"
+                  id="profileInput"
+                  class="hidden"
+                  accept="image/*"
+                />
+                <p class="text-gray-500">
+                  Drag & Drop or
+                  <span class="text-red-600 font-semibold cursor-pointer"
+                    >Browse</span
+                  >
+                </p>
+                <img
+                  id="profilePreview"
+                  class="mx-auto mt-4 w-28 h-28 rounded-full hidden object-cover"
+                />
+              </div>
+            </div>
+
+            <!-- Basic Info -->
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+              <div>
+                <label class="block font-semibold">Full Name</label>
+                <input
+                  type="text"
+                  name="name"
+                  required
+                  class="w-full border rounded-lg p-2"
+                />
+              </div>
+              <div>
+                <label class="block font-semibold">Position</label>
+                <select name="position" class="w-full border rounded-lg p-2">
+                  <option>Software Engineer</option>
+                  <option>UI/UX Designer</option>
+                  <option>Project Manager</option>
+                  <option>QA Tester</option>
+                  <option>DevOps Engineer</option>
+                </select>
+              </div>
+              <div>
+                <label class="block font-semibold">Department</label>
+                <input
+                  type="text"
+                  name="department"
+                  class="w-full border rounded-lg p-2"
+                />
+              </div>
+              <div>
+                <label class="block font-semibold">Company</label>
+                <input
+                  type="text"
+                  name="company"
+                  class="w-full border rounded-lg p-2"
+                />
+              </div>
+              <div>
+                <label class="block font-semibold">Email</label>
+                <input
+                  type="email"
+                  name="email"
+                  required
+                  class="w-full border rounded-lg p-2"
+                />
+              </div>
+              <div>
+                <label class="block font-semibold">Phone</label>
+                <input
+                  type="text"
+                  name="phone"
+                  class="w-full border rounded-lg p-2"
+                />
+              </div>
+              <div>
+                <label class="block font-semibold">Location</label>
+                <input
+                  type="text"
+                  name="location"
+                  class="w-full border rounded-lg p-2"
+                />
+              </div>
+              <div>
+                <label class="block font-semibold">Status</label>
+                <select name="status" class="w-full border rounded-lg p-2">
+                  <option>Full-time</option>
+                  <option>Part-time</option>
+                  <option>Contract</option>
+                  <option>Probationary</option>
+                </select>
+              </div>
+              <div>
+                <label class="block font-semibold">LinkedIn</label>
+                <input
+                  type="url"
+                  name="linkedin"
+                  class="w-full border rounded-lg p-2"
+                />
+              </div>
+              <div>
+                <label class="block font-semibold">GitHub</label>
+                <input
+                  type="url"
+                  name="github"
+                  class="w-full border rounded-lg p-2"
+                />
+              </div>
+              <div>
+                <label class="block font-semibold">Twitter</label>
+                <input
+                  type="url"
+                  name="twitter"
+                  class="w-full border rounded-lg p-2"
+                />
+              </div>
+              <div>
+                <label class="block font-semibold">Facebook</label>
+                <input
+                  type="url"
+                  name="facebook"
+                  class="w-full border rounded-lg p-2"
+                />
+              </div>
+            </div>
+          </div>
+
+          <div class="">
+            <!-- Skills -->
+            <div>
+              <label class="block font-semibold mb-2"
+                >Skills (comma-separated)</label
+              >
+              <input
+                type="text"
+                name="skills"
+                placeholder="React, Tailwind, PHP"
+                class="w-full border rounded-lg p-2"
+              />
+            </div>
+
+            <!-- Achievements -->
+            <div>
+              <label class="block font-semibold">Achievements</label>
+              <textarea
+                name="achievements"
+                rows="3"
+                class="w-full border rounded-lg p-2"
+                placeholder="List your achievements..."
+              ></textarea>
+            </div>
+
+            <!-- Project Upload -->
+            <div>
+              <label class="block font-semibold mb-2">Project Images</label>
+              <div
+                id="projectDrop"
+                class="border-2 border-dashed border-gray-300 rounded-lg p-6 text-center cursor-pointer hover:border-red-400 transition"
+              >
+                <input
+                  type="file"
+                  id="projectInput"
+                  class="hidden"
+                  multiple
+                  accept="image/*"
+                />
+                <p class="text-gray-500">
+                  Drag & Drop or
+                  <span class="text-red-600 font-semibold cursor-pointer"
+                    >Browse</span
+                  >
+                </p>
+                <div
+                  id="projectPreview"
+                  class="flex flex-wrap gap-4 mt-4"
+                ></div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- Save Button -->
+        <button
+          type="submit"
+          class="w-full py-3 bg-[#991B1B] text-white rounded-lg font-semibold hover:bg-[#7F1D1D] transition"
+        >
+          Save Profile
+        </button>
+      </form>
+    </div>
+
+    <script>
+      // Profile Upload
+      const profileDrop = document.getElementById("profileDrop");
+      const profileInput = document.getElementById("profileInput");
+      const profilePreview = document.getElementById("profilePreview");
+
+      profileDrop.addEventListener("click", () => profileInput.click());
+      profileInput.addEventListener("change", handleProfileUpload);
+
+      profileDrop.addEventListener("dragover", (e) => {
+        e.preventDefault();
+        profileDrop.classList.add("border-red-400");
+      });
+      profileDrop.addEventListener("dragleave", () =>
+        profileDrop.classList.remove("border-red-400")
+      );
+      profileDrop.addEventListener("drop", (e) => {
+        e.preventDefault();
+        profileInput.files = e.dataTransfer.files;
+        handleProfileUpload();
+      });
+
+      function handleProfileUpload() {
+        const file = profileInput.files[0];
+        if (file) {
+          profilePreview.src = URL.createObjectURL(file);
+          profilePreview.classList.remove("hidden");
+        }
+      }
+
+      // Project Upload
+      const projectDrop = document.getElementById("projectDrop");
+      const projectInput = document.getElementById("projectInput");
+      const projectPreview = document.getElementById("projectPreview");
+
+      projectDrop.addEventListener("click", () => projectInput.click());
+      projectInput.addEventListener("change", handleProjectUpload);
+
+      projectDrop.addEventListener("dragover", (e) => {
+        e.preventDefault();
+        projectDrop.classList.add("border-red-400");
+      });
+      projectDrop.addEventListener("dragleave", () =>
+        projectDrop.classList.remove("border-red-400")
+      );
+      projectDrop.addEventListener("drop", (e) => {
+        e.preventDefault();
+        projectInput.files = e.dataTransfer.files;
+        handleProjectUpload();
+      });
+
+      function handleProjectUpload() {
+        projectPreview.innerHTML = "";
+        Array.from(projectInput.files).forEach((file) => {
+          const img = document.createElement("img");
+          img.src = URL.createObjectURL(file);
+          img.className = "w-32 h-24 object-cover rounded-lg shadow";
+          projectPreview.appendChild(img);
+        });
+      }
+
+      // Save Profile
+      document.getElementById("profileForm").addEventListener("submit", (e) => {
+        e.preventDefault();
+        const formData = new FormData(e.target);
+        const data = Object.fromEntries(formData.entries());
+        data.skills = data.skills.split(",").map((s) => s.trim());
+
+        console.log("Profile Data:", data);
+        alert("Profile saved successfully!");
+      });
+    </script>
+  </body>
+</html>

@@ -33,7 +33,7 @@ function filterEmployees() {
   const filtered = employees.filter((emp) => {
     const matchesSearch =
       emp.name.toLowerCase().includes(search) ||
-      emp.email.toLowerCase().includes(search);
+      emp.position.toLowerCase().includes(search);
     const matchesRole = activeRole ? emp.position === activeRole : true;
     return matchesSearch && matchesRole;
   });
