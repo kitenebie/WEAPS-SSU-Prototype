@@ -1,0 +1,2 @@
+// Initial render
+renderCards(employees);
