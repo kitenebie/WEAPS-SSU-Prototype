@@ -42,84 +42,84 @@ It features searchable employee cards, role-based filtering, and a detailed **CV
 
 ## 🖼️ Preview
 
-![Employee Card Example]('doc/1.png')
+![Employee Card Example](doc/1.png)
 
 ---
 
 
 ## 🖼️ Preview
 
-![Employee Card Example]('doc/2.png')
+![Employee Card Example](doc/2.png)
 
 ---
 
 
 ## 🖼️ Preview
 
-![Employee Card Example]('doc/3.png')
+![Employee Card Example](doc/3.png)
 
 ---
 
 
 ## 🖼️ Preview
 
-![Employee Card Example]('doc/4.png')
+![Employee Card Example](doc/4.png)
 
 ---
 
 
 ## 🖼️ Preview
 
-![Employee Card Example]('doc/5.png')
+![Employee Card Example](doc/5.png)
 
 ---
 
 
 ## 🖼️ Preview
 
-![Employee Card Example]('doc/6.png')
+![Employee Card Example](doc/6.png)
 
 ---
 
 
 ## 🖼️ Preview
 
-![Employee Card Example]('doc/7.png')
+![Employee Card Example](doc/7.png)
 
 ---
 
 
 ## 🖼️ Preview
 
-![Employee Card Example]('doc/8.png')
+![Employee Card Example](doc/8.png)
 
 ---
 
 
 ## 🖼️ Preview
 
-![Employee Card Example]('doc/9.png')
+![Employee Card Example](doc/9.png)
 
 ---
 
 
 ## 🖼️ Preview
 
-![Employee Card Example]('doc/10.png')
+![Employee Card Example](doc/10.png)
 
 ---
 
 
 ## 🖼️ Preview
 
-![Employee Card Example]('doc/11.png')
+![Employee Card Example](doc/11.png)
 
 ---
 
 
 ## 🖼️ Preview
 
-![Employee Card Example]('doc/12.png')
+![Employee Card Example](doc/12.png)
 
 ---
 
