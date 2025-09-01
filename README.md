@@ -41,18 +41,18 @@ It features searchable employee cards, role-based filtering, and a detailed **CV
 ---
 
 ## 🖼️ Preview
-('/doc/1.png')
-('/doc/2.png')
-('/doc/3.png')
-('/doc/4.png')
-('/doc/5.png')
-('/doc/6.png')
-('/doc/7.png')
-('/doc/8.png')
-('/doc/9.png')
-('/doc/10.png')
-('/doc/11.png')
-('/doc/12.png')
+('https://github.com/kitenebie/WEAPS-SSU-Prototype/blob/main/doc/1.png')
+('https://github.com/kitenebie/WEAPS-SSU-Prototype/blob/main/doc/2.png')
+('https://github.com/kitenebie/WEAPS-SSU-Prototype/blob/main/doc/3.png')
+('https://github.com/kitenebie/WEAPS-SSU-Prototype/blob/main/doc/4.png')
+('https://github.com/kitenebie/WEAPS-SSU-Prototype/blob/main/doc/5.png')
+('https://github.com/kitenebie/WEAPS-SSU-Prototype/blob/main/doc/6.png')
+('https://github.com/kitenebie/WEAPS-SSU-Prototype/blob/main/doc/7.png')
+('https://github.com/kitenebie/WEAPS-SSU-Prototype/blob/main/doc/8.png')
+('https://github.com/kitenebie/WEAPS-SSU-Prototype/blob/main/doc/9.png')
+('https://github.com/kitenebie/WEAPS-SSU-Prototype/blob/main/doc/10.png')
+('https://github.com/kitenebie/WEAPS-SSU-Prototype/blob/main/doc/11.png')
+('https://github.com/kitenebie/WEAPS-SSU-Prototype/blob/main/doc/12.png')
 
 ---
 
