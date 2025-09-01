@@ -41,18 +41,18 @@ It features searchable employee cards, role-based filtering, and a detailed **CV
 ---
 
 ## 🖼️ Preview
-('https://github.com/kitenebie/WEAPS-SSU-Prototype/blob/main/doc/1.png')
-('https://github.com/kitenebie/WEAPS-SSU-Prototype/blob/main/doc/2.png')
-('https://github.com/kitenebie/WEAPS-SSU-Prototype/blob/main/doc/3.png')
-('https://github.com/kitenebie/WEAPS-SSU-Prototype/blob/main/doc/4.png')
-('https://github.com/kitenebie/WEAPS-SSU-Prototype/blob/main/doc/5.png')
-('https://github.com/kitenebie/WEAPS-SSU-Prototype/blob/main/doc/6.png')
-('https://github.com/kitenebie/WEAPS-SSU-Prototype/blob/main/doc/7.png')
-('https://github.com/kitenebie/WEAPS-SSU-Prototype/blob/main/doc/8.png')
-('https://github.com/kitenebie/WEAPS-SSU-Prototype/blob/main/doc/9.png')
-('https://github.com/kitenebie/WEAPS-SSU-Prototype/blob/main/doc/10.png')
-('https://github.com/kitenebie/WEAPS-SSU-Prototype/blob/main/doc/11.png')
-('https://github.com/kitenebie/WEAPS-SSU-Prototype/blob/main/doc/12.png')
+![Employee Card Example]('https://github.com/kitenebie/WEAPS-SSU-Prototype/blob/main/doc/1.png')
+![Employee Card Example]('https://github.com/kitenebie/WEAPS-SSU-Prototype/blob/main/doc/2.png')
+![Employee Card Example]('https://github.com/kitenebie/WEAPS-SSU-Prototype/blob/main/doc/3.png')
+![Employee Card Example]('https://github.com/kitenebie/WEAPS-SSU-Prototype/blob/main/doc/4.png')
+![Employee Card Example]('https://github.com/kitenebie/WEAPS-SSU-Prototype/blob/main/doc/5.png')
+![Employee Card Example]('https://github.com/kitenebie/WEAPS-SSU-Prototype/blob/main/doc/6.png')
+![Employee Card Example]('https://github.com/kitenebie/WEAPS-SSU-Prototype/blob/main/doc/7.png')
+![Employee Card Example]('https://github.com/kitenebie/WEAPS-SSU-Prototype/blob/main/doc/8.png')
+![Employee Card Example]('https://github.com/kitenebie/WEAPS-SSU-Prototype/blob/main/doc/9.png')
+![Employee Card Example]('https://github.com/kitenebie/WEAPS-SSU-Prototype/blob/main/doc/10.png')
+![Employee Card Example]('https://github.com/kitenebie/WEAPS-SSU-Prototype/blob/main/doc/11.png')
+![Employee Card Example]('https://github.com/kitenebie/WEAPS-SSU-Prototype/blob/main/doc/12.png')
 
 ---
 
