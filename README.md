@@ -41,7 +41,18 @@ It features searchable employee cards, role-based filtering, and a detailed **CV
 ---
 
 ## 🖼️ Preview
-
+('/doc/1.png')
+('/doc/2.png')
+('/doc/3.png')
+('/doc/4.png')
+('/doc/5.png')
+('/doc/6.png')
+('/doc/7.png')
+('/doc/8.png')
+('/doc/9.png')
+('/doc/10.png')
+('/doc/11.png')
+('/doc/12.png')
 
 ---
 
