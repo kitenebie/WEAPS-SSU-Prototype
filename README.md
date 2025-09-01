@@ -42,7 +42,6 @@ It features searchable employee cards, role-based filtering, and a detailed **CV
 
 ## 🖼️ Preview
 
-![Employee Card Example](https://i.pravatar.cc/150?img=5)
 
 ---
 
@@ -51,13 +50,6 @@ It features searchable employee cards, role-based filtering, and a detailed **CV
 - [ ] Fetch employee data from an API  
 - [ ] Export CV as PDF  
 - [ ] Admin dashboard for managing employees  
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome!  
-Feel free to **open an issue** or **submit a pull request**.
 
 ---
 

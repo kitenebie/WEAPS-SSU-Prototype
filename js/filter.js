@@ -18,7 +18,7 @@ uniquePositions.forEach((pos) => {
     [...filterTags.children].forEach((btn) =>
       btn.classList.remove("bg-red-600", "text-white")
     );
-    tag.classList.add("bg-red-600", "text-white");
+    tag.classList.add("bg-red-600", "text-red-950");
     filterEmployees();
   });
 
