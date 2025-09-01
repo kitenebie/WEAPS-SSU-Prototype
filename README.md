@@ -38,6 +38,11 @@ It features searchable employee cards, role-based filtering, and a detailed **CV
 
 ✅ No build tools needed — just HTML, CSS, and JS.
 
+## 🖼️ Open in chrome
+
+![Employee Card Example](doc/0.png)
+
+
 ---
 
 ## 🖼️ Preview
