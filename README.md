@@ -45,6 +45,14 @@ It features searchable employee cards, role-based filtering, and a detailed **CV
 
 ---
 
+## 🖼️ or Download the ZIP File and extract
+
+![Employee Card Example](doc/13.png)
+
+
+---
+
+
 ## 🖼️ index.html
 
 ![Employee Card Example](doc/1.png)
