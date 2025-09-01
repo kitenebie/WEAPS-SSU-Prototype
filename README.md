@@ -45,84 +45,56 @@ It features searchable employee cards, role-based filtering, and a detailed **CV
 
 ---
 
-## 🖼️ Preview
+## 🖼️ index.html
 
 ![Employee Card Example](doc/1.png)
 
 ---
 
 
-## 🖼️ Preview
+## 🖼️ signup.html
 
 ![Employee Card Example](doc/2.png)
 
 ---
 
 
-## 🖼️ Preview
+## 🖼️ verify.html
 
 ![Employee Card Example](doc/3.png)
 
 ---
 
 
-## 🖼️ Preview
+## 🖼️ main.html
 
 ![Employee Card Example](doc/4.png)
 
----
-
-
-## 🖼️ Preview
 
 ![Employee Card Example](doc/5.png)
 
----
-
-
-## 🖼️ Preview
 
 ![Employee Card Example](doc/6.png)
 
----
-
-
-## 🖼️ Preview
 
 ![Employee Card Example](doc/7.png)
 
 ---
 
 
-## 🖼️ Preview
+## 🖼️ company.html
 
 ![Employee Card Example](doc/8.png)
 
----
-
-
-## 🖼️ Preview
 
 ![Employee Card Example](doc/9.png)
 
----
-
-
-## 🖼️ Preview
 
 ![Employee Card Example](doc/10.png)
 
----
-
-
-## 🖼️ Preview
 
 ![Employee Card Example](doc/11.png)
 
----
-
-
-## 🖼️ Preview
 
 ![Employee Card Example](doc/12.png)
 
