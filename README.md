@@ -41,17 +41,84 @@ It features searchable employee cards, role-based filtering, and a detailed **CV
 ---
 
 ## 🖼️ Preview
+
 ![Employee Card Example]('https://github.com/kitenebie/WEAPS-SSU-Prototype/blob/main/doc/1.png')
+
+---
+
+
+## 🖼️ Preview
+
 ![Employee Card Example]('https://github.com/kitenebie/WEAPS-SSU-Prototype/blob/main/doc/2.png')
+
+---
+
+
+## 🖼️ Preview
+
 ![Employee Card Example]('https://github.com/kitenebie/WEAPS-SSU-Prototype/blob/main/doc/3.png')
+
+---
+
+
+## 🖼️ Preview
+
 ![Employee Card Example]('https://github.com/kitenebie/WEAPS-SSU-Prototype/blob/main/doc/4.png')
+
+---
+
+
+## 🖼️ Preview
+
 ![Employee Card Example]('https://github.com/kitenebie/WEAPS-SSU-Prototype/blob/main/doc/5.png')
+
+---
+
+
+## 🖼️ Preview
+
 ![Employee Card Example]('https://github.com/kitenebie/WEAPS-SSU-Prototype/blob/main/doc/6.png')
+
+---
+
+
+## 🖼️ Preview
+
 ![Employee Card Example]('https://github.com/kitenebie/WEAPS-SSU-Prototype/blob/main/doc/7.png')
+
+---
+
+
+## 🖼️ Preview
+
 ![Employee Card Example]('https://github.com/kitenebie/WEAPS-SSU-Prototype/blob/main/doc/8.png')
+
+---
+
+
+## 🖼️ Preview
+
 ![Employee Card Example]('https://github.com/kitenebie/WEAPS-SSU-Prototype/blob/main/doc/9.png')
+
+---
+
+
+## 🖼️ Preview
+
 ![Employee Card Example]('https://github.com/kitenebie/WEAPS-SSU-Prototype/blob/main/doc/10.png')
+
+---
+
+
+## 🖼️ Preview
+
 ![Employee Card Example]('https://github.com/kitenebie/WEAPS-SSU-Prototype/blob/main/doc/11.png')
+
+---
+
+
+## 🖼️ Preview
+
 ![Employee Card Example]('https://github.com/kitenebie/WEAPS-SSU-Prototype/blob/main/doc/12.png')
 
 ---
